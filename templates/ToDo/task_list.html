@@ -6,10 +6,11 @@
     </tr>
     {% for tasks in task %}
     <tr>
-        <td>{{tasks.tittle}}</td>
+        <td>{{ tasks.id }} - {{tasks.tittle}}</td>
         <td><a href="{% url 'task-detail' tasks.id %}">View</a></td>
         <td><a href="{% url 'task-create' %}">Add</a></td>
-        <td><a href="{% url 'task-update' task.id %}">Update</a></td>
+        <td><a href="{% url 'task-update' tasks.id %}">Update</a></td>
+        <td><a href="{% url 'task-delete' tasks.id %}">Delete</a></td>
     </tr>
     {% empty %}
     <h3>No items in list</h3>
