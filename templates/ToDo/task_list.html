@@ -1,15 +1,22 @@
 {% extends 'ToDo/main.html' %}
 
 {% block content %}
+
+<div class="header-bar">
+  <div>
+    <h1>Hello {{request.user|title}}</h1>
+    <h3>You have <i>{{ count }} incomplete task{{ count|pluralize:'s'}}</i></h3>
+  </div>
+</div>
 {% if request.user.is_authenticated %}
   <p>{{ request.user }}</p>
   <a href="{% url 'logout' %}">Logout</a>
 {% else %}
   <a href="{% url 'login' %}">Login</a>
-{% endif %}    
+{% endif %}     
 <hr>
 
-<h1>my tolist app</h1>
+<h1>My ToDo-list</h1>
 <form>
   <input type="text" name="search-area">
   <input type="submit" value="Search-Task">
