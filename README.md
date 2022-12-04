@@ -31,4 +31,39 @@ Site Aims
 
 * All user stories were entered as issues in a GitHub Kanban project. The live project board can be found on the repository's project tab.
 
+## UX Design
+
+* *The UXD was created taking into consideration "The Five Planes"*
+
+### Strategy plane
+
+* Note Pad applicaction is an app where new users can create new accounts, add items to their to-do list and existing users can log in and add on tasks to their already existing account.
+
+### Scope Plane
+
+* The users will be able to create an account. After logging in, they will be able to add new items/tasks to the to-do list 
+
+### Structure Plane
+
+* Note Pad will have 4 main pages - Login page, Register page,Tasks page and Logout page.
+
+### Skeleton Plane
+
+* Using [Balsamiq Wireframes](https://balsamiq.com/wireframes/), I drew a sketch of how the app will look like, making it easy to follow a pattern while designing the website.
+
+![New Wireframe pp4](https://user-images.githubusercontent.com/103276740/205500288-e30deef1-03aa-41de-8603-bb7279deceaf.png)
+
+### Surface Plane
+
+* The chosen color scheme picked for the website is predominantly blue, white, and purple. 
+* The colors of the whole application were chosen to stand out from the main theme to get the attention of the user.
+* The color contrast successfully passes using the [a11y](https://color.a11y.com/) contrast. White text over brightly coloured background contrasts well and gives good visual to the user.
+
+-----
+
+
+
+
+
+
 
