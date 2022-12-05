@@ -158,6 +158,20 @@ All links and redirects have been manually tested and all bugs were fixed.
 
 ![Screenshot_20221205_185427](https://user-images.githubusercontent.com/103276740/205719627-acc0914b-36c6-4995-9f90-49c1e096f5b4.png)
 
+# Credits
+
+Thanks to the people who helped me when I got stuck building this project, my mentor , tutor support and the slack community.
+
+## General Reference
+
+Besides the course materail, I also used youtube to reference
+
+## Content
+
+* Content linked from google fonts
+
+
+
 
 
  
