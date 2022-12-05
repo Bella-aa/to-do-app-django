@@ -61,6 +61,67 @@ Site Aims
 
 -----
 
+# Features
+
+* All features are presented page by page
+
+## Register and Login Page
+
+![Screenshot_20221205_173114](https://user-images.githubusercontent.com/103276740/205703526-64fa0640-256e-4399-ae35-2961c272f8a7.png)
+![Screenshot_20221205_173354](https://user-images.githubusercontent.com/103276740/205704014-6c366a04-11c8-4143-995c-291d5fe523d8.png)
+
+* The Login and Register page is the first page the  users will see upon openning the app.
+* If the user is already an existing user, they will eneter their login detais and are ready to login into the app.
+* If the user is is new, they will register for new account on the register page. User will enter their desired user name and password and their account is setup.
+
+-----
+
+## Tasks Page
+
+![Screenshot_20221205_174101](https://user-images.githubusercontent.com/103276740/205705393-86e00012-f3a9-4f5c-bba6-3f1280a38c59.png)
+
+* This is the page the user will see after loging into the application.
+* On this page, the user will see a heading, hello message addressed with their user name.
+* On this page users will see buttons and icons they can use to add new tasks to their to-do list.
+
+-----
+
+## Create task page
+
+![Screenshot_20221205_174711](https://user-images.githubusercontent.com/103276740/205706499-6ee01df9-9035-4852-920a-230170726d01.png)
+
+* This is the page where user directed when they want to create a new task
+* User will see input fields where they can enter the name and description of their new task 
+* User can click save after finishing enetering details and task is saved on the list
+
+-----
+
+## Task delete page
+
+![Screenshot_20221205_175212](https://user-images.githubusercontent.com/103276740/205707680-c4e8422a-dad2-4718-af8f-078fa98ebd34.png)
+
+* This is the page the user is directed to if they decide to delete a task they nolonger wish to appear on their list
+* User will see a message to confirm if they really want to delete the task
+* User clicks the 'yes, delete' button and task nolonger appears on the list.
+* If user decides not to delete task, they can press the back button that appears on top of the page before they confirm deletion.
+
+-----
+
+## Task Search
+
+![Screenshot_20221205_180341](https://user-images.githubusercontent.com/103276740/205709731-19fa19e8-e92f-4524-8b09-58b05e9e1670.png)
+
+* User will see an input field with placeholder text 'search task'
+* User will enter key words into the input field and clicks the search task button
+* Only tasks with the keywords input will appear after clicking the search task buton.
+
+ 
+
+
+
+
+
+
 
 
 
