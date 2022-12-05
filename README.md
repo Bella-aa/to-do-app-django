@@ -115,6 +115,51 @@ Site Aims
 * User will enter key words into the input field and clicks the search task button
 * Only tasks with the keywords input will appear after clicking the search task buton.
 
+-----
+
+# Feature Features
+
+* Improve the layout and design of the NotePad application.
+* Add a fuctionality to add pictures on the to-do list
+* Add a feature to reset username and password if user forgets the old one
+* Add functionality to send the user an email confirming they have created an account with NotePad application.
+
+# Technologies Used
+
+* Python
+ -The packages installed for the is project can be found in the requirements.txt
+* Django
+-Django was used as the python framework in the project.
+Django all auth was used to handle user authentication and related tasks i.e. sign in, sign up, sign out.
+* Heroku
+Used to deploy the page and make it publicly available.
+* Heroku PostgreSQL
+-Used for the database during development and in deployment.
+* HTML
+-HTML was the base language used to layout the skeleton of all templates.
+* CSS
+-CSS used to style the page and make the appearance look a little more unique.
+* Javascript
+
+# Testing
+
+For this project manual testing was applied:
+
+Constant use of "Run and Debug". This was the most used method of debugging:
+
+* Add a breakpoint to the function currently in test, and check line by line if your variables behaves as intended.
+Manual testing occurred regularly throughout local development, making use of statements that would print information to the console and use the Django debug pages.
+
+All links and redirects have been manually tested and all bugs were fixed.
+
+## Lighthouse Testing
+
+* All pages return good performance on desktop and mobile devices.
+
+![Screenshot_20221205_185427](https://user-images.githubusercontent.com/103276740/205719627-acc0914b-36c6-4995-9f90-49c1e096f5b4.png)
+
+
+
  
 
 
