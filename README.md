@@ -4,7 +4,8 @@ For my **Portfolio 4 Project** on the **Code Institute's Diploma in Software Dev
 
 The Note Pad application is an application where users can jot down their tasks or cirtain things they want to achieve in a day or any time. The application is created in such a manner that users can create, view, edit and delete tasks they nolonger want to appear on their note-pad, this gives users the ability to take control of what they want to appear in their notepad.
 
-Link to the deployed app is [here]().
+Link to the deployed app is [here](https://notepad-2022.herokuapp.com/).
+Link to github is [here](https://github.com/Bella-aa)
 
 ![am I responsive](https://user-images.githubusercontent.com/103276740/205498513-b3d6d19d-e93f-4ee3-bb72-ee5c62446839.png)
 
@@ -30,6 +31,10 @@ Site Aims
 ## Agile Methodology
 
 * All user stories were entered as issues in a GitHub Kanban project. The live project board can be found on the repository's project tab.
+Look at the link [here](https://github.com/users/Bella-aa/projects/2)
+
+![Screenshot_20221206_005925](https://user-images.githubusercontent.com/103276740/205898977-6e7b4188-326e-4cf8-87a9-96a78e6fc0ab.png)
+
 
 ## UX Design
 
